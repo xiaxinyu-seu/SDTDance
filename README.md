@@ -1,5 +1,7 @@
 # SDTDance
 ## 长序列舞蹈动作生成结果
+SDTDance可依据指定音乐，生成高质量长序列舞蹈动作（建议关闭静音，配合音乐欣赏更佳）
+
 https://github.com/user-attachments/assets/5b5ab09c-1eb4-462e-93c9-67b93bfe03ec
 
 https://github.com/user-attachments/assets/95626116-af0c-42fb-bc43-d154e41b70ec
@@ -7,9 +9,13 @@ https://github.com/user-attachments/assets/95626116-af0c-42fb-bc43-d154e41b70ec
 https://github.com/user-attachments/assets/c26d5694-9ede-42d1-9562-3ee5079c268b
 
 ## 风格可控性展示
-https://github.com/user-attachments/assets/b90b80eb-ff42-48fb-a0a6-6b7e2889d6db
+SDTDance可通过教师引导的风格控制器，输入相同音乐与不同模糊风格文本提示，生成匹配音乐且契合文本描述的舞蹈动作
+
+https://github.com/user-attachments/assets/123be5d1-d25b-47d2-be51-4e9aa46f880d
 
 ## 风格动作基元
+提取 8 种风格的动作基元，每个视频对应 1 种风格，呈现 16 个基元的拼接效果，单个基元含 16 帧动作
+
 https://github.com/user-attachments/assets/2d17f253-9376-4c8f-a4d7-968831252b18
 
 https://github.com/user-attachments/assets/4b186b9b-d68a-4f7f-a92a-6a63de5d082a
